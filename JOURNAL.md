@@ -6,10 +6,19 @@
   ==================================================================
 -->
 
-## 11/8/2025 - Made a plan/outline of the project  
+## 11/8/2025 8 PM - Made a plan/outline of the project  
 
 I made an outline of my design idea and drew sketches showing how the parts connect and what components I might use. The drawings helped me see how everything would fit together and spot any problems, like parts being too close or wiring getting messy. I also wrote down what materials and power sources I might need, along with backup options if certain parts don’t work out. Doing this helped me understand my design better and what I need to fix before I start building.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f5c24e8329a9f39b9fa9e88f5d2a63a7c00eddf3/image.png)
+  
+
+## 11/8/2025 10 PM - Came up with a parts list and do research  
+
+I spent a lot of time looking for the best and cheapest parts for my project before ordering them. I compared prices from different places and read reviews to make sure the parts were good quality and would work well together. I also checked things like the size and power ratings so I wouldn’t have problems when building. It took a while, but it helped me stay on budget and feel sure that I picked the right parts for my design.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--cee93457c39113852b346378006a8005dc2b30ea/image.png)
+
+Link to spreadsheet: https://docs.google.com/spreadsheets/d/18sHrVnnAW3djUQlrHK7Lcw1qec93DNQ5wBk5AZvjBJg/edit?gid=0#gid=0 
   
 
