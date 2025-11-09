@@ -22,3 +22,24 @@ I spent a lot of time looking for the best and cheapest parts for my project bef
 Link to spreadsheet: https://docs.google.com/spreadsheets/d/18sHrVnnAW3djUQlrHK7Lcw1qec93DNQ5wBk5AZvjBJg/edit?gid=0#gid=0 
   
 
+## 11/9/2025 - Made sketches and Initial design for base.   
+
+I spent many hours today learning how to create sketches, and learning how to 3d design using onshape. I created a base where I can put my electronics inside, and also made some holes for the motors to stick out so that the wheels will fit. I spent a lot of time trying to understand how to CAD, from creating sketches to extruding/removing.   
+
+Video links: 
+https://www.youtube.com/watch?v=2utLjjkXpIg 
+https://www.youtube.com/watch?v=RyS3Bx0X29A
+https://www.youtube.com/watch?v=PP4bR1Kz5FQ
+
+![Screenshot 2025-11-09 143827](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--d300717a5765944b7f419e3c5c078d70b896a6d6/Screenshot%202025-11-09%20143827.png)
+
+![Screenshot 2025-11-09 143817](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ac4d2132f99f96d9c2d106297f0939bab806f07f/Screenshot%202025-11-09%20143817.png)
+
+![Screenshot 2025-11-09 144032](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--5b9234afd0c3d32d407829b74de50519adf0866f/Screenshot%202025-11-09%20144032.png)
+
+![Screenshot 2025-11-09 151054](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg5NywicHVyIjoiYmxvYl9pZCJ9fQ==--2f8b5deab7e6a31acfe755eb9a7fa6ca4ef28c49/Screenshot%202025-11-09%20151054.png)
+
+
+
+  
+
