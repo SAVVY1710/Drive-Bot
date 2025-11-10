@@ -22,7 +22,7 @@ I spent a lot of time looking for the best and cheapest parts for my project bef
 Link to spreadsheet: https://docs.google.com/spreadsheets/d/18sHrVnnAW3djUQlrHK7Lcw1qec93DNQ5wBk5AZvjBJg/edit?gid=0#gid=0 
   
 
-## 11/9/2025 - Made sketches and Initial design for base.   
+## 11/9/2025 3 PM - Made sketches and Initial design for base.   
 
 I spent many hours today learning how to create sketches, and learning how to 3d design using onshape. I created a base where I can put my electronics inside, and also made some holes for the motors to stick out so that the wheels will fit. I spent a lot of time trying to understand how to CAD, from creating sketches to extruding/removing.   
 
@@ -41,5 +41,12 @@ https://www.youtube.com/watch?v=PP4bR1Kz5FQ
 
 
 
+  
+
+## 11/9/2025 6 PM - Finalized design  
+
+I added holes to fit a sensor to check distance, and then also spent a lot of time measuring parts so that I could finalize the CAD and figure out the right dimensions to fit my parts in. This was especially challenging due to the fact that I have to account for many different parts and components, which took up a lot of time. 
+
+![Screenshot 2025-11-09 180535](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTkzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--9547484ec46343bf4e148f1b7fb4192eab08ecea/Screenshot%202025-11-09%20180535.png)
   
 
